@@ -1,3 +1,13 @@
+## 👥 Team Project
+
+This project was originally developed by a team.
+
+Original repository:
+(https://github.com/amrit7-glitch/HackIndia-Spark-8-2025-FarmBotics)
+
+My contribution:
+- Model Selection & training
+- Deployment setup
 # HackIndia-Spark-8-2025-FarmBotics
 Our project leafLens focuses on solving the problem of Indian farmers to increase their crop productivity by detecting the actual disease using AI trained model and providing it's remedy in multiple languages.
 # Table Of Content
